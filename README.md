@@ -1,2 +1,9 @@
 # personal_finance_tracker
-I built a Personal Finance Tracker using React, Firebase, JavaScript, and CSS. It allow users to securely sign up and log in, add their income and expenses, and track their spending habits over time. 
+A responsive web application built with React, Firebase, and Ant Design that helps users manage and track their income, expenses, and overall financial balance in real time. The app provides an intuitive interface, visual insights with charts, and secure data management through Firebase.
+Frontend: React, JavaScript, HTML, CSS
+
+UI Library: Ant Design
+
+Backend & Database: Firebase (Authentication & Firestore Database)
+
+Charts: Recharts
