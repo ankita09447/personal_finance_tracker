@@ -1,0 +1,25 @@
+.wrapper,charts-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 90vh;
+}
+.charts-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap; /* so it wraps on smaller screens */
+  padding: 2rem;
+}
+
+.chart-box {
+  flex: 1 1 45%;
+  min-width: 300px;
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow-x: auto;
+}
